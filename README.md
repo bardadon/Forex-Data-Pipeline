@@ -22,7 +22,7 @@ https://medium.com/@bdadon50/etl-process-using-airflow-and-docker-226aa5c7a41a
 
 # End Result 
 Automated Pipeline:
-![Uploading oie_9225149lq8e2RQN.png…]
+![Uploading oie_9225149lq8e2RQN.png…]()
 
 Clean Forex data ready to be analyzed:
 ![pgadmin](https://user-images.githubusercontent.com/65648983/200799154-191f9922-6ebb-4b30-b9b7-199d46db3910.png)
