@@ -9,6 +9,7 @@ https://medium.com/@bdadon50/etl-process-using-airflow-and-docker-226aa5c7a41a
 
 # Project Architecture
 ![document-1-1](https://user-images.githubusercontent.com/65648983/200800954-abc1754e-1a69-4f2d-b806-926e822018e1.png)
+![oie_911440vc2P4H0A](https://user-images.githubusercontent.com/65648983/200801460-c4789f0c-ce4c-4c88-828a-46f6beb65119.png)
 
 
 # Deploying the Pipeline
