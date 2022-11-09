@@ -1,13 +1,14 @@
 # Forex-Data-Pipeline
 This ETL process will extract data from fixer.io API, transform it, and load it to a PostgreSQL database. At the end of the project you will have an automated process that constantly feeds the PostgreSQL database with data. Every 2 minutes, the ETL process will load an updated batch of Forex data.
 
+__Note__
+To learn how to set everything up in more details, check out my Medium article. Follow every step to create the Forex Data Pipeline.
+
+https://medium.com/@bdadon50/etl-process-using-airflow-and-docker-226aa5c7a41a
+
 # Project Architecture
 ![oie_dlxTDEAlYwYX](https://user-images.githubusercontent.com/65648983/200797626-0e6e61cc-a0c7-4049-bcd8-190346b22be8.png)
 
-__Note__
-To learn how to set everything up, check out my Medium article. Follow every step to create the Forex Data Pipeline.
-
-https://medium.com/@bdadon50/etl-process-using-airflow-and-docker-226aa5c7a41a
 
 # Deploying the Pipeline
 1. Run docker-compose up -d to set up Airflow.
