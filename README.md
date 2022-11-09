@@ -8,7 +8,6 @@ To learn how to set everything up in more details, check out my Medium article. 
 https://medium.com/@bdadon50/etl-process-using-airflow-and-docker-226aa5c7a41a
 
 # Project Architecture
-![oie_dlxTDEAlYwYX](https://user-images.githubusercontent.com/65648983/200797626-0e6e61cc-a0c7-4049-bcd8-190346b22be8.png)
 ![document-1-1](https://user-images.githubusercontent.com/65648983/200800954-abc1754e-1a69-4f2d-b806-926e822018e1.png)
 
 
