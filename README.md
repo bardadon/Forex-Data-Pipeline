@@ -1,5 +1,5 @@
 # Forex-Data-Pipeline
-![forex_data_pipeline(1)](https://user-images.githubusercontent.com/65648983/200797048-b42e602c-6368-46f3-bfd2-2c25f6140a91.png)
+![oie_dlxTDEAlYwYX](https://user-images.githubusercontent.com/65648983/200797626-0e6e61cc-a0c7-4049-bcd8-190346b22be8.png)
 
 The ETL process will extract data from fixer.io API, transform it, and load it to a PostgreSQL database. This project aims to have an automated process that constantly feeds the PostgreSQL database with data. Every 2 minutes, the ETL process will load an updated batch of Forex data.
 
