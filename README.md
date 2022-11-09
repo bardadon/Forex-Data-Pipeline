@@ -19,4 +19,5 @@ https://medium.com/@bdadon50/etl-process-using-airflow-and-docker-226aa5c7a41a
 7. Query the data.
 
 # End Result
+Clean Forex data ready to be analyzed!
 ![pgadmin](https://user-images.githubusercontent.com/65648983/200799154-191f9922-6ebb-4b30-b9b7-199d46db3910.png)
