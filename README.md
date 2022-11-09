@@ -9,7 +9,7 @@ To learn how to set everything up, check out my Medium article. Follow every ste
 
 https://medium.com/@bdadon50/etl-process-using-airflow-and-docker-226aa5c7a41a
 
-## Creating the Pipeline
+# Deploying the Pipeline
 1. Run docker-compose up -d to set up Airflow.
 2. Log in to Airflow at localhost:8080.
 3. Create the necessary connections.
@@ -17,3 +17,6 @@ https://medium.com/@bdadon50/etl-process-using-airflow-and-docker-226aa5c7a41a
 5. Log in to PgAdmin at localhost:5050.
 6. Set up a new server.
 7. Query the data.
+
+# End Result
+![pgadmin](https://user-images.githubusercontent.com/65648983/200799154-191f9922-6ebb-4b30-b9b7-199d46db3910.png)
