@@ -9,6 +9,7 @@ https://medium.com/@bdadon50/etl-process-using-airflow-and-docker-226aa5c7a41a
 
 # Project Architecture
 ![oie_dlxTDEAlYwYX](https://user-images.githubusercontent.com/65648983/200797626-0e6e61cc-a0c7-4049-bcd8-190346b22be8.png)
+[document-1.pdf](https://github.com/bardadon/Forex-Data-Pipeline/files/9969728/document-1.pdf)
 
 
 # Deploying the Pipeline
